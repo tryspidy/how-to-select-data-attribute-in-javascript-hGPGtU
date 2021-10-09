@@ -1,0 +1,1 @@
+const link = document.querySelector('[data-link="1"]');
